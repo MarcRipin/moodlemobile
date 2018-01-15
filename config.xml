@@ -84,9 +84,9 @@
 <plugin name="cordova-plugin-splashscreen" spec="~5.0.1" />
 <plugin name="cordova-plugin-statusbar" spec="~2.4.1" />
 
-<plugin name="nl.x-services.plugins.launchmyapp" spec="3.2.0" source="pgb">
-        <param name="URL_SCHEME" value="Wistec.Online" />
-    </plugin>
+<gap:plugin name="cordova-plugin-customurlscheme" source="npm">
+  <param name="URL_SCHEME" value="http://wisteconline.fi" />
+</gap:plugin>
 <plugin name="com.ionic.keyboard" spec="1.0.3" source="pgb" />
 <plugin name="de.appplant.cordova.plugin.local-notification" spec="0.8.1" source="pgb" />
 <plugin name="ch.ti8m.documenthandler" spec="0.2.1" source="pgb" />
