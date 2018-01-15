@@ -87,9 +87,7 @@
 <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
   <param name="URL_SCHEME" value="http://wisteconline.fi" />
 </gap:plugin>
-<plugin name="com.ionic.keyboard" spec="1.0.3" source="pgb" />
-<plugin name="de.appplant.cordova.plugin.local-notification" spec="0.8.1" source="pgb" />
-<plugin name="ch.ti8m.documenthandler" spec="0.2.1" source="pgb" />
+
 
     <gap:config-file platform="android" parent="/manifest">
          <application android:debuggable="false" />
