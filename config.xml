@@ -76,16 +76,16 @@
     <gap:platform name="android" />
 
 <plugin name="org.apache.cordova.camera" spec="0.3.6" source="pgb" />
-    <gap:plugin name="org.apache.cordova.media-capture" />
-    <gap:plugin name="org.apache.cordova.console" />
+<plugin name="cordova-plugin-media-capture" spec="1.0.1" source="pgb" />
+<plugin name="org.apache.cordova.console" spec="0.2.13" source="pgb" />
     <gap:plugin name="org.apache.cordova.device" version="0.2.8"/>
-    <gap:plugin name="org.apache.cordova.file" />
-    <gap:plugin name="org.apache.cordova.file-transfer" />
-    <gap:plugin name="org.apache.cordova.globalization" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" />
-    <gap:plugin name="org.apache.cordova.network-information" />
-    <gap:plugin name="org.apache.cordova.splashscreen" />
-    <gap:plugin name="com.phonegap.plugin.statusbar" />
+<plugin name="cordova-plugin-file" spec="~6.0.1" />
+<plugin name="cordova-plugin-file-transfer" spec="~1.7.0" />
+<plugin name="cordova-plugin-globalization" spec="~1.0.9" />
+<plugin name="cordova-plugin-inappbrowser" spec="~2.0.1" />
+<plugin name="cordova-plugin-network-information" spec="~2.0.1" />
+<plugin name="cordova-plugin-splashscreen" spec="~5.0.1" />
+<plugin name="cordova-plugin-statusbar" spec="~2.4.1" />
 
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <gap:plugin name="net.tunts.webintent" />
