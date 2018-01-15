@@ -1,6 +1,6 @@
 {
   "name": "Wistec Online",
-  "main": "index.html",
+  "main": "index.php",
   "window": {
     "title": "Wistec Online",
     "icon": "icon.png",

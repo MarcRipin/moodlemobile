@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "Wistec.Online"
         versionCode = "100"
-        version   = "1.00">
+        version   = "1.0.0">
     <name>Wistec Online</name>
 
     <description>
