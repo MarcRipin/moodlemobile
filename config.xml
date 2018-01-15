@@ -87,14 +87,14 @@
 <plugin name="cordova-plugin-splashscreen" spec="~5.0.1" />
 <plugin name="cordova-plugin-statusbar" spec="~2.4.1" />
 
-    <gap:plugin name="com.phonegap.plugins.pushplugin" />
-    <gap:plugin name="net.tunts.webintent" />
-    <gap:plugin name="nl.x-services.plugins.launchmyapp">
+<plugin name="com.clavei.phonegap.plugins.pushplugin" spec="2.2.6" source="pgb" />
+<plugin name="net.tunts.webintent" spec="0.2.1" source="pgb" />
+<plugin name="nl.x-services.plugins.launchmyapp" spec="3.2.0" source="pgb">
         <param name="URL_SCHEME" value="Wistec.Online" />
     </gap:plugin>
-    <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
-    <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5" />
-    <gap:plugin name="ch.ti8m.documenthandler" version="0.2.1" />
+<plugin name="com.ionic.keyboard" spec="1.0.3" source="pgb" />
+<plugin name="de.appplant.cordova.plugin.local-notification" spec="0.8.1" source="pgb" />
+<plugin name="ch.ti8m.documenthandler" spec="0.2.1" source="pgb" />
 
     <gap:config-file platform="android" parent="/manifest">
          <application android:debuggable="false" />
