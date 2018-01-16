@@ -72,8 +72,8 @@
   },
   "main": "www/electron.js",
   "build": {
-    "appId": "com.moodle.moodledesktop",
-    "productName": "Moodle Desktop",
+    "appId": "com.wistec.wisteconline",
+    "productName": "Wistec Desktop",
     "files": [
       "!desktop",
       "!**/e2e",
@@ -88,9 +88,9 @@
     },
     "protocols": [
       {
-        "name": "Moodle Mobile URL",
+        "name": "Wistec Online URL",
         "schemes": [
-          "moodlemobile"
+          "wisteconline"
         ],
         "role": "Viewer"
       }
