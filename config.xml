@@ -76,7 +76,7 @@
     <gap:platform name="android" />
 
 
-<plugin name="cordova-plugin-file" spec="~6.0.1" />
+<plugin name="cordova-plugin-file" />
 <plugin name="cordova-plugin-file-transfer"  />
 <plugin name="cordova-plugin-globalization"  />
 <plugin name="cordova-plugin-inappbrowser"  />
