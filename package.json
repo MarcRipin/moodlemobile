@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "3.4.0",
-  "description": "The official app for Moodle.",
+  "name": "WistecOnline",
+  "version": "1.0.0",
+  "description": "Wistec Online Mobile App",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Wistec Training",
+    "email": "info@wistec.fi"
   },
   "repository": {
     "type": "git",
