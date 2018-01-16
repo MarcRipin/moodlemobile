@@ -76,7 +76,7 @@
     <gap:platform name="android" />
 
 
-
+<plugin name="WebIntent" value="com.borismus.webintent.WebIntent" />
 <plugin name="cordova-plugin-file-transfer"  source="npm" />
 <plugin name="cordova-plugin-globalization" source="npm" />
 <plugin name="cordova-plugin-inappbrowser" source="npm" />
