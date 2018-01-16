@@ -1,8 +1,8 @@
 {
-    "app_id" : "com.wistec.online",
+    "app_id" : "com.wistec.wisteconline",
     "appname": "Wistec Online",
     "desktopappname": "Wistec Desktop",
-    "versioncode" : "2021",
+    "versioncode" : "20210",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",

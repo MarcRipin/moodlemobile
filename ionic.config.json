@@ -1,6 +1,6 @@
 {
-  "name": "WistecOnline",
-  "app_id": "",
+  "name": "Wistec Online",
+  "app_id": "com.wistec.wisteconline",
   "watchPatterns": [
     "www/**/*.html",
     "www/build/**/*",
